@@ -13,7 +13,12 @@ Despite the cultural and economic importance of periodic markets in Nigeria, the
 
 2. Improve Rural-Urban Supply Planning: Support vendors, transporters, and planners in aligning distribution schedules with known active market days to avoid inefficiencies.
 
-N.B: This analysis was conducted using R programming, incorporating packages such as leaflet, sf, dplyr, and shiny. The interactive map presents Nigeria’s markets by name, supporting spatial-temporal exploration of traditional economic activity.
+N.B: This analysis was conducted using R programming, incorporating packages such as leaflet, sf, dplyr, and shiny. The interactive map presents Nigeria’s markets by name, supporting 
+spatial-temporal exploration of traditional economic activity.
+
+
+### The Code
+
 
 
 
