@@ -17,7 +17,7 @@ N.B: This analysis was conducted using R programming, incorporating packages suc
 spatial-temporal exploration of traditional economic activity.
 
 
-### The Code
+
 
 
 
